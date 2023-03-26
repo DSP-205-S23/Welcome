@@ -1,2 +1,2 @@
-# Welcome
-Welcome to Data-Scientific Programming (205) for Spring '23.
+# Welcome to Data-Scientific Programming (205) for Spring '23.
+
